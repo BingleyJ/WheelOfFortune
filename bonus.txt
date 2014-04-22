@@ -1,0 +1,12 @@
+assembly
+bliss
+coldfusion
+turbo pascal
+ruby
+basic
+objective c
+delphi
+fortran
+turing
+visual basic
+python

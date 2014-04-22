@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1354215322 source:c:\users\heather\documents\wheel_of_fortune\wheeloffortune.cpp
+	<iomanip>
+	<iostream>
+	<windows.h>
+
